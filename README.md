@@ -1,6 +1,6 @@
 | Markdown              | Поддерживает           | Таблицы                     |
 | :-------------------- | ---------------------: |:---------------------------:|
-| [Gaming market analysis](/Kull/Gaming market analysis/) | с выравниванием справа | и с выравниванием по центру |
+| [Gaming market analysis](https://github.com/Killdone/Kull/tree/master/Gaming%20market%20analysis) | с выравниванием справа | и с выравниванием по центру |
 
 
 
