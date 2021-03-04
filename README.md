@@ -9,6 +9,6 @@
 | [Taxi Forecast](https://github.com/Killdone/Kull/tree/master/Taxi%20Forecast) | Спрогнозировал количество заказов такси на следующий час и построил модель для такого предсказания. Я использовал технику ресемплирования и скользящего среднего. Чтобы определить пиковые нагрузки, построил оптимальную модель, подобрав гиперпараметры с помощью кроссвалидации. | pandas, sklearn, numpy, statsmodels, math, matplotlib|
 | |
 | [Toxic comments](https://github.com/Killdone/Kull/tree/master/Toxic%20comments) |Обучал модель классифицировать комментарии на позитивные и негативные. Задействовал библиотеки textblob,nltk. Произвел эмбидинг и лемматизацию текстов. а также определение тональности. Работал с языковой моделью BERT и моделями градиентного бустинга CatBoost , LGBM| pandas, textblob, nltk, catboost |
-
-
+| |
+| [Steel temperature](https://github.com/Killdone/Kull/tree/master/Steel%20temperature) | Надо было оптимизировать производственные расходы на электричество, путем предсказания температуры плавки стали на основе данных. Для этого строилась модель, которая предсказывала температуру стали.| pandas, textblob, nltk, catboost |
 
